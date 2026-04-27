@@ -3,7 +3,7 @@
 
 import difficulty as df
 import field as fld
-import game
+import game as game
 
 difficulty = df.set_difficulty()
 size = df.unpack_difficulty(difficulty)[0]
